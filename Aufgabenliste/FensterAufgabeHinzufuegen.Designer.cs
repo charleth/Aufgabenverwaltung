@@ -69,7 +69,6 @@ namespace Aufgabenliste
             this.labelAbgabedatum.Size = new System.Drawing.Size(88, 13);
             this.labelAbgabedatum.TabIndex = 2;
             this.labelAbgabedatum.Text = "Abgabedatum:";
-            this.labelAbgabedatum.Click += new System.EventHandler(this.buttonAufgabeHinzufuegen_Click);
             // 
             // buttonAufgabeHinzufuegen
             // 

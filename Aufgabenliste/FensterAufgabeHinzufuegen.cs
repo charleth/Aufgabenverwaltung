@@ -24,7 +24,9 @@ namespace Aufgabenliste
 
         private void buttonAufgabeHinzufuegen_Click(object sender, EventArgs e)
         {
+            // Aufgabe hinzufügen (Bezeichnung, Mitarbeiter, Abgabedatum, Erledigungsgrad)
 
+            // Eingabefelder leeren
         }
     }
 }
